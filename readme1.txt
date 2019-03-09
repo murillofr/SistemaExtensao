@@ -1,3 +1,2 @@
-O sistema de extensão irá permitir ao aluno imprimir seus certificados.
-TESTE
-Dione
+PRÁTICAS EM REPOSITÓRIOS REMOTOS.
+Aula sobre Push e Pull
