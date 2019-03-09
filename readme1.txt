@@ -1,2 +1,1 @@
-O sistema de extensão irá permitir ao aluno imprimir seus certificados.
-TESTE
+PRÁTICAS EM REPOSITÓRIOS REMOTOS.
